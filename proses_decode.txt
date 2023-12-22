@@ -1,0 +1,17 @@
+Menyiapkan Cover sesuai panjang text :
+
+Pixel 1 sampai Pixel 3: [240, 241, 241, 240, 240, 241, 240, 240, 240]
+Mengambil byte terakhir 1 sampai Pixel 3: 01100100
+Pesan yang tersembunyi dari pixel 1 sampai 3 : d
+
+Pixel 4 sampai Pixel 6: [240, 241, 241, 240, 240, 241, 240, 241, 240]
+Mengambil byte terakhir 4 sampai Pixel 6: 01100101
+Pesan yang tersembunyi dari pixel 1 sampai 6 : de
+
+Pixel 7 sampai Pixel 9: [240, 241, 241, 241, 240, 241, 240, 240, 240]
+Mengambil byte terakhir 7 sampai Pixel 9: 01110100
+Pesan yang tersembunyi dari pixel 1 sampai 9 : det
+
+Pixel 10 sampai Pixel 12: [240, 241, 241, 240, 240, 240, 240, 241, 241]
+Mengambil byte terakhir 10 sampai Pixel 12: 01100001
+Pesan yang tersembunyi dari pixel 1 sampai 12 : deta
